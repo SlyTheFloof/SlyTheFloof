@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **:**
 
-- > **Minecraft Java Server**
-
 - > **Red-Fox Discord Bot**
+
+- > **Minecraft Java Server**
 
 - > **Minecraft Bedrock Server**
 
