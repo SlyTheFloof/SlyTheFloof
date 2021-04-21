@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://allmylinks.com/slythefloof**
 
-- ⚡ Fun fact ~~**Foxes are cute~**~~
+- ⚡ Fun fact ~~**I'm cute~**~~
 
 
 <h3 align="left">Languages and Tools:</h3>
