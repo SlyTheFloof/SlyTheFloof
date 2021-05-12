@@ -1,3 +1,16 @@
+<!--
+    Copyrighted 2021 (C) SlyTheFloof
+    Please do not copy. 
+    I am grateful you are interested, 
+    but search up your own code for your own readme and figure it out yourself.
+-->
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/SlyTheFloof.png">
+    <hr>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm SlyTheFloof</h1>
 <h3 align="center">A Lazy developer from Ottawa Ontario</h3>
 
