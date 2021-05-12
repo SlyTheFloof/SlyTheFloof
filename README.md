@@ -11,7 +11,7 @@
 </div>
 
 
-<h1 align="center">Hya 👋, I'm SlyTheFloof</h1>
+<h1 align="center">Hya, I'm SlyTheFloof</h1>
 
 <h3 align="center">A Lazy developer from Ottawa Ontario</h3>
 
@@ -23,7 +23,7 @@
 
 - > **Minecraft Bedrock Server**
 
-- 🌱 I’m currently learning: **Python, MySQL, HTML, Java, GOLang, PHP**
+- 🏫 I’m currently learning: **Python, MySQL, HTML, Java, GOLang, PHP**
 
 - 📫 How to reach me: **https://allmylinks.com/slythefloof**
 
