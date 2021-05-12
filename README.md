@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/SlyTheFloof.png">
+    <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/SlyTheFloof%20Banner.png">
     <hr>
 </div>
 
