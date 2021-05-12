@@ -2,7 +2,7 @@
     Copyrighted 2021 (C) SlyTheFloof
     Please do not copy. 
     I am grateful you are interested, 
-    but search up your own code for your own readme and figure it out yourself.
+    but please search up your own code for your own readme and figure it out yourself.
 -->
 
 <div align="center">
