@@ -11,7 +11,8 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm SlyTheFloof</h1>
+<h1 align="center">Hya 👋, I'm SlyTheFloof</h1>
+
 <h3 align="center">A Lazy developer from Ottawa Ontario</h3>
 
 - 🔭 I’m currently working on **:**
