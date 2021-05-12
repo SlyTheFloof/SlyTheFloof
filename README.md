@@ -9,7 +9,7 @@
 
 - > **Minecraft Bedrock Server**
 
-- 🌱 I’m currently learning **Python, PHP, MySQL, java, GO, HTML**
+- 🌱 I’m currently learning **Python, PHP, MySQL, java, GOLang, HTML**
 
 - 📫 How to reach me **https://allmylinks.com/slythefloof**
 
