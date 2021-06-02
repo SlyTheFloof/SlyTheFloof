@@ -25,7 +25,7 @@
 
 - 🏫 I’m currently learning: **Python, MySQL, HTML, Java, GOLang, PHP**
 
-- 📫 How to reach me: **https://allmylinks.com/slythefloof**
+- 📫 How to reach me: **https://www.twitter.com/slythefloof**
 
 - ⚡ Fun fact: ~~**I'm cute~**~~
 
