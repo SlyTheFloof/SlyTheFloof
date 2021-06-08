@@ -43,7 +43,7 @@
  
 
 <h3 align="left">Support & Keep Me Awake:</h3>
-<p><a href="https://www.buymeacoffee.com/SlyTheFloof"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SlyTheFloof"/></a></p>
+<p><a href="https://www.buymeacoffee.com/SlyTheFloof"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="SlyTheFloof"/></a></p>
 
 <br/> <br/>
 
