@@ -36,10 +36,10 @@
 - ⚡ Fun fact: **I'm cute~**
 
 - 💻 Operating System:
-     ![Windows 10 Pro](https://img.shields.io/badge/Windows%2010-black?style=for-the-badge&logo=Windows)
+     ![Windows 10 Pro](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
 - 🗨️ Social Media:
-     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SlyTheFloof)
+     [<img src='https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/SlyTheFloof)
  
 
 <h3 align="left">Support & Keep Me Awake:</h3>
@@ -47,9 +47,20 @@
 
 <br/> <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h3 align="left">Tools:</h3>
+
+<div align="left">
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />    
+</div>
+
+<h3 align="left">Languages:</h3>
+
+<div align="left">
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+</div>
 
 <br/> <br/>
 
