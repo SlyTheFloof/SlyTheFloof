@@ -40,11 +40,6 @@
  
 - 🗨️ Social Media:
      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SlyTheFloof)
-     
-     <!--
-     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://redfoxbot.xyz)
-     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/EHQfHPgV9N)
-     --->
  
 
 <h3 align="left">Support & Keep Me Awake:</h3>
