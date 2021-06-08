@@ -36,10 +36,10 @@
 - ⚡ Fun fact: **I'm cute~**
 
 - 💻 Operating System:
-     ![Windows 10 Pro](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+     ![Windows 10 Pro](https://img.shields.io/badge/Windows⠀10⠀Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
 - 🗨️ Social Media:
-     [<img src='https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/SlyTheFloof)
+     [<img src='https://img.shields.io/badge/@SlyTheFloof-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/SlyTheFloof)
  
 
 <h3 align="left">Support & Keep Me Awake:</h3>
