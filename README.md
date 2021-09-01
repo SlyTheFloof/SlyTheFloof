@@ -21,15 +21,13 @@
 
 <h3 align="center">[Minecraft Java Server]</h3>
 
-<h3 align="center">[Minecraft Bedrock Server]</h3>
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/Rainbow%20Devider.gif">
     <hr>
 </div>
 
 
-- 🏫 I’m currently learning: **Python, MySQL, HTML, Java, GOLang, PHP**
+- 🏫 I’m currently learning: **Python, MySQL, HTML, Java, PHP**
 
 - 📫 How to reach me: **https://allmylinks.com/slythefloof**
 
@@ -59,7 +57,6 @@
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 <br/> <br/>
