@@ -19,7 +19,7 @@
 
 <h3 align="center">[Red-Fox Discord Bot]</h3>
 
-<h3 align="center">[Minecraft Java Server]</h3>
+<h3 align="center">[Minecraft Java Servers for Dragon's Keep Network]</h3>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/Rainbow%20Devider.gif">
