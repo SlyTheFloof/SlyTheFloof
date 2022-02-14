@@ -31,7 +31,7 @@
 
 - 📫 How to reach me: **https://allmylinks.com/slythefloof**
 
-- ⚡ Fun fact: **I'm cute~**
+- ⚡ Fun fact: **I'm Soft & Floofy~**
 
 - 💻 Operating System:
      ![Windows 10 Pro](https://img.shields.io/badge/Windows⠀10⠀Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
