@@ -17,11 +17,11 @@
 
 <h3 align="center">🔭 I’m currently working on :</h3>
 
-<h3 align="center">[Red-Fox Discord Bot]</h3>
+<h3 align="center">[<a href="https://rexfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
 
 <h3 align="center">[<a href="http://furchat.xyz">Furry Chat Based Website</a>]</h3>
 
-<h3 align="center">[Minecraft Java Servers for Dragon's Keep Network]</h3>
+<h3 align="center">[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragon's Keep Network</a>]</h3>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/Rainbow%20Devider.gif">
