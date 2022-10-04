@@ -19,7 +19,7 @@
 
 <h3 align="center">[Red-Fox Discord Bot]</h3>
 
-<h3 align="center">[https://furchat.xyz furry chat based website]</h3>
+<h3 align="center">[http://furchat.xyz furry chat based website]</h3>
 
 <h3 align="center">[Minecraft Java Servers for Dragon's Keep Network]</h3>
 
