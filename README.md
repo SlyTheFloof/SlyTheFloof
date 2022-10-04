@@ -17,7 +17,7 @@
 
 <h3 align="center">🔭 I’m currently working on :</h3>
 
-<h3 align="center">[<a href="https://rexfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
+<h3 align="center">[<a href="https://redfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
 
 <h3 align="center">[<a href="http://furchat.xyz">Furry Chat Based Website</a>]</h3>
 
