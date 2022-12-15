@@ -11,15 +11,15 @@
 </div>
 
 
-<h1 align="center">Hya, I'm Justin or also known as SlyTheFloof online</h1>
+<h1 align="center">Hya, I'm SlyTheFloof</h1>
 
-<h2 align="center">A Lazy developer from Ottawa Ontario</h2>
+<h2 align="center">A Project Developer From Ottawa Ontario Canada</h2>
 
 <h3 align="center">🔭 I’m currently working on :</h3>
 
 <h3 align="center">[<a href="https://redfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
 
-<h3 align="center">[<a href="http://furchat.xyz">Furry Chat Based Website</a>]</h3>
+<h3 align="center">[<a href="http://furchat.xyz">Furry Chat Based Website & Application</a>]</h3>
 
 <h3 align="center">[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragons Keep Network</a>]</h3>
 
