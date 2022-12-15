@@ -54,7 +54,7 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />    
 </div>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages i know kinda well:</h3>
 
 <div align="left">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
