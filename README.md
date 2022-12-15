@@ -11,7 +11,7 @@
 </div>
 
 
-<h1 align="center">Hya, I'm SlyTheFloof</h1>
+<h1 align="center">Hya, I'm Justin or also known as SlyTheFloof online</h1>
 
 <h2 align="center">A Lazy developer from Ottawa Ontario</h2>
 
@@ -21,7 +21,7 @@
 
 <h3 align="center">[<a href="http://furchat.xyz">Furry Chat Based Website</a>]</h3>
 
-<h3 align="center">[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragon's Keep Network</a>]</h3>
+<h3 align="center">[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragons Keep Network</a>]</h3>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/Rainbow%20Devider.gif">
