@@ -19,9 +19,9 @@
 
 <h3 align="center">[<a href="https://redfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
 
-<h3 align="center">~~[<a href="http://furchat.xyz">Furry Chat Based Website & Application</a>]~~</h3>
+<h3 align="center">---[<a href="http://furchat.xyz">Furry Chat Based Website & Application</a>]---</h3>
 
-<h3 align="center">~~[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragons Keep Network</a>]~~</h3>
+<h3 align="center">---[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragons Keep Network</a>]---</h3>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/Rainbow%20Devider.gif">
