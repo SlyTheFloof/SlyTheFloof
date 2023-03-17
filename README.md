@@ -52,6 +52,7 @@
 <h3 align="left">Tools:</h3>
 
 <div align="left">
+OTQyMTE1NDYxMDM2OTEyNzAw.GBQL5C.FbL_qMBeB0_DyJeLNKaOHq8d-G8sej82wI-nlM
     <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />    
 </div>
 
