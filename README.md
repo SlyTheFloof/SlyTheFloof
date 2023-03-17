@@ -10,8 +10,6 @@
     <hr>
 </div>
 
-MTA4NjM4MzI4MjkxODI3NzE2MQ.GsJFzo.jUjW39ZsOLfI7KYQopUH8wm63QaouUoIhwwhAk
-
 <h1 align="center">Hya, I'm SlyTheFloof</h1>
 
 <h2 align="center">A Project Developer From Ottawa Ontario Canada</h2>
