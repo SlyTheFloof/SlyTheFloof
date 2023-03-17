@@ -5,10 +5,6 @@
     but please search up your own code for your own readme and figure it out yourself.
 -->
 
-<!--
-OTQyMTE1NDYxMDM2OTEyNzAw.G4tUAv.1XpBeH8coCfmLIn7zVcNV6bHUK8K9R25Z1xkJI
--->
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/SlyTheFloof%20Banner.png">
     <hr>
