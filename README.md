@@ -14,8 +14,11 @@
 
 <h2 align="center">A Project Developer From Ottawa Ontario Canada</h2>
 
-<h3 align="center">🔭 I’m currently working on :</h3>
+<h3 align="center">🔭 I’m currently working on:</h3>
+Nothing ;)
 
+
+<h3 align="center">Projects on the back burner:</h3>
 <h3 align="center">[<a href="https://redfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
 
 <!---
