@@ -40,7 +40,7 @@
 - ⚡ Fun fact: **I'm Soft & Floofy~**
 
 - 💻 Operating Systems:
-     [Windows 11 Pro]
+     **Windows 11 Pro**
  
 - 🗨️ Social Media:
      [<img src='https://img.shields.io/badge/@SlyTheFloof-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white' alt='twitter'>](https://twitter.com/SlyTheFloof)
