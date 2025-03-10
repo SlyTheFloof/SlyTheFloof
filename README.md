@@ -54,7 +54,7 @@
 <h3 align="left">Tools:</h3>
 
 <div align="left">
-    <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />    
+    <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" />    
 </div>
 
 <h3 align="left">Languages i know kinda well:</h3>
