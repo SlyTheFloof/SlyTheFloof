@@ -54,7 +54,7 @@
 <h3 align="left">Tools:</h3>
 
 <div align="left">
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </div>
 
 <h3 align="left">Languages i know kinda well:</h3>
