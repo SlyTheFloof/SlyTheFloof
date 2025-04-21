@@ -14,14 +14,15 @@
 
 <h2 align="center">A Project Developer From Ottawa Ontario Canada</h2>
 
-<h3 align="center">🔭 I’m currently working on:</h3>
+<h3 align="center">I’m currently working on:</h3>
 <h2 align="center">Nothing ;)</h2>
 
-
 <h3 align="center">Projects on the back burner:</h3>
-<h3 align="center">[<a href="https://redfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
+<h2 align="center">Nothing ;)</h2>
 
 <!---
+<h3 align="center">[<a href="https://redfoxbot.xyz">Red-Fox Discord Bot</a>]</h3>
+
 <h3 align="center">[<a href="http://furchat.xyz">Furry Chat Based Website & Application</a>]</h3>
 
 <h3 align="center">[Minecraft Java Servers for <a href="http://dragonskeep.xyz">Dragons Keep Network</a>]</h3>
