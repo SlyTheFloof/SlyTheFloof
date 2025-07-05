@@ -10,6 +10,8 @@
     <hr>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/SlyTheFloof/count.svg)
+
 <h1 align="center">Hya, I'm SlyTheFloof</h1>
 
 <h2 align="center">A Project Developer From Ottawa Ontario Canada</h2>
