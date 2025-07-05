@@ -8,9 +8,8 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/SlyTheFloof%20Banner.png">
     <hr>
+    ![Visitor Count](https://profile-counter.glitch.me/SlyTheFloof/count.svg)
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/SlyTheFloof/count.svg)
 
 <h1 align="center">Hya, I'm SlyTheFloof</h1>
 
