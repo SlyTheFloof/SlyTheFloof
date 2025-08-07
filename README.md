@@ -18,10 +18,6 @@
 
 ## 🔧 Projects on the Back Burner
 > <div align="center"><i>Nothing 😉</i></div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/Rainbow-Devider.gif" alt="Rainbow Divider" width="60%"/>
-  <hr/>
 </div>
 
 ## 🌱 Learning & Exploring
