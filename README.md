@@ -31,7 +31,7 @@
 - **Java**
 
 ## 📫 Reach Me
-- 🌐 [allmylinks.com/slythefloof](https://allmylinks.com/slythefloof)
+- 🌐 [Website](https://slythefloof.ca)
 
 ## 💻 Operating System
 - **Windows 11 Pro**
