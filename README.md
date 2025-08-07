@@ -6,9 +6,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SlyTheFloof/SlyTheFloof/main/SlyTheFloof-Banner.png" alt="SlyTheFloof Banner" width="80%"/>
-  <br/>
-  <img src="https://profile-counter.glitch.me/SlyTheFloof/count.svg" alt="Visitor Count"/>
-  <hr/>
 </div>
 
 <h1 align="center">Hi, I'm SlyTheFloof 🦊</h1>
