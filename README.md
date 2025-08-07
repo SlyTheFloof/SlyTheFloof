@@ -18,7 +18,6 @@
 
 ## 🔧 Projects on the Back Burner
 > <div align="center"><i>Nothing 😉</i></div>
-</div>
 
 ## 🌱 Learning & Exploring
 - **Python**
